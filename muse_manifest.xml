@@ -1,0 +1,162 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="englemuse.com" resolutions="1x,2x" timestamp="1486229204151">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_portfolio-graphics.css" crc="393386113" ref="graphics"/>
+    <file name="master_about.css" crc="3823258003" ref="about"/>
+    <file name="master_index.css" crc="4069071400" ref="index"/>
+    <file name="master_contact.css" crc="198106727" ref="untitled-7"/>
+    <file name="master_photos.css" crc="495480305" ref="photos"/>
+    <file name="master_web.css" crc="3893477461" ref="web"/>
+    <file name="index.css" crc="30527009" ref="index"/>
+    <file name="untitled-7.css" crc="253312546" ref="untitled-7"/>
+    <file name="graphics.css" crc="3810604621" ref="graphics"/>
+    <file name="web.css" crc="4088139383" ref="web"/>
+    <file name="about.css" crc="525224636" ref="about"/>
+    <file name="photos.css" crc="148964100" ref="photos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>portfolio:phone>web:phone>photography:phone>graphics:phone>about:index:about:photos:web:graphics:untitled-7"/>
+    <file name="museutils.js" crc="4148063285" ref="phone>index:phone>portfolio:phone>web:phone>photography:phone>graphics:phone>about:index:about:photos:web:graphics:untitled-7"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>portfolio:phone>web:phone>photography:phone>graphics:phone>about:index:about:photos:web:graphics:untitled-7"/>
+    <file name="museconfig.js" crc="4179431180" ref="phone>index:phone>portfolio:phone>web:phone>photography:phone>graphics:phone>about:index:about:photos:web:graphics:untitled-7"/>
+    <file name="jquery.watch.js" crc="437028206" ref="phone>index:phone>portfolio:phone>web:phone>photography:phone>graphics:phone>about:index:about:photos:web:graphics:untitled-7"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="phone>index:index"/>
+    <file name="require.js" crc="4159430777" ref="phone>index:phone>portfolio:phone>web:phone>photography:phone>graphics:phone>about:index:about:photos:web:graphics:untitled-7"/>
+    <file name="webpro.js" crc="3986320349" ref="about:photos:web:graphics:untitled-7"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="about:photos:web:graphics:untitled-7"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="photos:web:graphics"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="photos:web:graphics"/>
+    <file name="touchswipe.js" crc="221459597" ref="photos:web:graphics"/>
+  </folder>
+  <folder name="images">
+    <file name="asset 3-crop-u3106.png" crc="4082434972" ref="phone>index"/>
+    <file name="asset 3-crop-u3106_2x.png" crc="64348563" ref="phone>index"/>
+    <file name="engle-design-logo.svg" crc="4183626052" seo="true" ref="phone>index"/>
+    <file name="engle design logo_poster_.png" crc="214122723" ref="phone>index"/>
+    <file name="artwork-4.svg" crc="4037050909" seo="true" ref="phone>index:index"/>
+    <file name="artwork 4_poster_.png" crc="121891349" ref="phone>index"/>
+    <file name="artwork-16.svg" crc="477010887" seo="true" ref="phone>index:index"/>
+    <file name="artwork 16_poster_.png" crc="119226772" ref="phone>index"/>
+    <file name="artwork-17.svg" crc="10644601" seo="true" ref="phone>index:index"/>
+    <file name="artwork 17_poster_.png" crc="84675680" ref="phone>index"/>
+    <file name="artwork-12.svg" crc="4188756288" seo="true" ref="phone>index:index"/>
+    <file name="artwork 12_poster_.png" crc="65524877" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index:photos:web:graphics"/>
+    <file name="artwork-15.svg" crc="3956436966" seo="true" ref="phone>index:index"/>
+    <file name="artwork 15_poster_.png" crc="7456830" ref="phone>index"/>
+    <file name="artwork-14.svg" crc="149600129" seo="true" ref="phone>index:index"/>
+    <file name="artwork 14_poster_.png" crc="4217853214" ref="phone>index"/>
+    <file name="asset 3-crop-u1299.png" crc="526761422" ref="index"/>
+    <file name="pasted-svg-364271x142.svg" crc="293436434" seo="true" ref="index"/>
+    <file name="pasted svg 364271x142_poster_.png" crc="4044711213" ref="index"/>
+    <file name="pasted-svg-217775x122.svg" crc="521505460" seo="true" ref="about"/>
+    <file name="pasted svg 217775x122_poster_.png" crc="3833560653" ref="about"/>
+    <file name="img_20170118_091150.jpg" crc="463380950" seo="true" ref="photos"/>
+    <file name="img_20170118_091150_2x.jpg" crc="18350405" seo="true" ref="photos"/>
+    <file name="img_20170118_091212.jpg" crc="219504632" seo="true" ref="photos"/>
+    <file name="img_20170118_091212_2x.jpg" crc="3944896550" seo="true" ref="photos"/>
+    <file name="img_20170118_091229.jpg" crc="4144467096" seo="true" ref="photos"/>
+    <file name="img_20170118_091229_2x.jpg" crc="47565853" seo="true" ref="photos"/>
+    <file name="img_20170118_091244.jpg" crc="353218751" seo="true" ref="photos"/>
+    <file name="img_20170118_091244_2x.jpg" crc="14317780" seo="true" ref="photos"/>
+    <file name="img_20170118_091246.jpg" crc="197029381" seo="true" ref="photos"/>
+    <file name="img_20170118_091246_2x.jpg" crc="3802583078" seo="true" ref="photos"/>
+    <file name="img_20170118_091330.jpg" crc="3963959393" seo="true" ref="photos"/>
+    <file name="img_20170118_091330_2x.jpg" crc="4230789053" seo="true" ref="photos"/>
+    <file name="muse (1 of 1).jpg" crc="4028330956" seo="true" ref="photos"/>
+    <file name="muse (1 of 1)_2x.jpg" crc="410621743" seo="true" ref="photos"/>
+    <file name="muse (1 of 3).jpg" crc="4152279124" seo="true" ref="photos"/>
+    <file name="muse (1 of 3)_2x.jpg" crc="268094403" seo="true" ref="photos"/>
+    <file name="muse (2 of 3).jpg" crc="119286091" seo="true" ref="photos"/>
+    <file name="muse (2 of 3)_2x.jpg" crc="4095061483" seo="true" ref="photos"/>
+    <file name="muse (3 of 3).jpg" crc="4120872061" seo="true" ref="photos"/>
+    <file name="muse (3 of 3)_2x.jpg" crc="381878180" seo="true" ref="photos"/>
+    <file name="img_20170118_091150-crop-u7872.jpg" crc="3973973622" ref="photos"/>
+    <file name="img_20170118_091150-crop-u7872_2x.jpg" crc="226728714" ref="photos"/>
+    <file name="img_20170118_091212383x287.jpg" crc="3911859456" seo="true" ref="photos"/>
+    <file name="img_20170118_091212383x287_2x.jpg" crc="352612408" seo="true" ref="photos"/>
+    <file name="img_20170118_091229431x287.jpg" crc="4048354553" seo="true" ref="photos"/>
+    <file name="img_20170118_091229431x287_2x.jpg" crc="14735377" seo="true" ref="photos"/>
+    <file name="img_20170118_091244-crop-u8033.jpg" crc="4240132704" ref="photos"/>
+    <file name="img_20170118_091244-crop-u8033_2x.jpg" crc="344421787" ref="photos"/>
+    <file name="img_20170118_091246-crop-u8053.jpg" crc="4094891775" ref="photos"/>
+    <file name="img_20170118_091246-crop-u8053_2x.jpg" crc="4199612364" ref="photos"/>
+    <file name="img_20170118_091330-crop-u8073.jpg" crc="3848636323" ref="photos"/>
+    <file name="img_20170118_091330-crop-u8073_2x.jpg" crc="525966983" ref="photos"/>
+    <file name="muse (1 of 1)-crop-u8093.jpg" crc="421716115" ref="photos"/>
+    <file name="muse (1 of 1)-crop-u8093_2x.jpg" crc="197472391" ref="photos"/>
+    <file name="muse (1 of 3)-crop-u8113.jpg" crc="55522245" ref="photos"/>
+    <file name="muse (1 of 3)-crop-u8113_2x.jpg" crc="3819704670" ref="photos"/>
+    <file name="muse (2 of 3)-crop-u8133.jpg" crc="3802997625" ref="photos"/>
+    <file name="muse (2 of 3)-crop-u8133_2x.jpg" crc="4291304055" ref="photos"/>
+    <file name="muse (3 of 3)459x287.jpg" crc="188519714" seo="true" ref="photos"/>
+    <file name="muse (3 of 3)459x287_2x.jpg" crc="3834923593" seo="true" ref="photos"/>
+    <file name="loading.gif" crc="3815509949" ref="photos:web:graphics"/>
+    <file name="flashwebsite.jpg" crc="62013072" seo="true" ref="web"/>
+    <file name="flashwebsite_2x.jpg" crc="4205038164" seo="true" ref="web"/>
+    <file name="screen shot 2017-01-25 at 64516 am.jpg" crc="155706758" seo="true" ref="web"/>
+    <file name="screen shot 2017-01-25 at 64516 am_2x.jpg" crc="87130039" seo="true" ref="web"/>
+    <file name="website_hunter.jpg" crc="4168681849" seo="true" ref="web"/>
+    <file name="website_hunter_2x.jpg" crc="135315047" seo="true" ref="web"/>
+    <file name="website_hunter409x287.jpg" crc="340669076" seo="true" ref="web"/>
+    <file name="website_hunter409x287_2x.jpg" crc="3788631200" seo="true" ref="web"/>
+    <file name="menu.jpg" crc="4015223488" seo="true" ref="graphics"/>
+    <file name="menu_2x.jpg" crc="236088746" seo="true" ref="graphics"/>
+    <file name="mockup_redue.jpg" crc="8266583" seo="true" ref="graphics"/>
+    <file name="mockup_redue_2x.jpg" crc="4017350798" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64852 am.jpg" crc="3771470661" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64852 am_2x.jpg" crc="353500106" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64900 am.jpg" crc="4189123932" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64900 am_2x.jpg" crc="458356649" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64904 am.jpg" crc="14937023" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64904 am_2x.jpg" crc="4193298466" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64909 am.jpg" crc="9029890" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64909 am_2x.jpg" crc="268611541" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64921 am.jpg" crc="85105153" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64921 am_2x.jpg" crc="97498977" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64925 am.jpg" crc="322392540" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64929 am.jpg" crc="177295867" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64934 am.jpg" crc="76741900" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64934 am_2x.jpg" crc="4067593817" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64944 am.jpg" crc="131046880" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64944 am_2x.jpg" crc="3875943226" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 65000 am.jpg" crc="4159813372" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 65029 am.jpg" crc="472264289" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 65029 am_2x.jpg" crc="4217714807" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 65037 am.jpg" crc="280397248" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 65037 am_2x.jpg" crc="4222188086" seo="true" ref="graphics"/>
+    <file name="mockup_redue368x313.jpg" crc="97032090" seo="true" ref="graphics"/>
+    <file name="mockup_redue368x313_2x.jpg" crc="66374954" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64925 am293x202.jpg" crc="3782753838" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64925 am_2x.jpg" crc="3857809172" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64929 am365x191.jpg" crc="3912707538" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 64929 am_2x.jpg" crc="13141374" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 65000 am293x296.jpg" crc="380779325" seo="true" ref="graphics"/>
+    <file name="screen shot 2017-01-25 at 65000 am_2x.jpg" crc="309135674" seo="true" ref="graphics"/>
+    <file name="pasted-svg-164733x50.svg" crc="198086477" seo="true" ref="untitled-7"/>
+    <file name="pasted svg 164733x50_poster_.png" crc="4268942285" ref="untitled-7"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_index.css" crc="4131800600" ref="phone>index"/>
+      <file name="index.css" crc="49375123" ref="phone>index"/>
+      <file name="portfolio.css" crc="279237556" ref="phone>portfolio"/>
+      <file name="about.css" crc="279237556" ref="phone>about"/>
+      <file name="web.css" crc="279237556" ref="phone>web"/>
+      <file name="graphics.css" crc="279237556" ref="phone>graphics"/>
+      <file name="photography.css" crc="279237556" ref="phone>photography"/>
+    </folder>
+    <file name="index.html" crc="246093765" seo="true" mt="1484172126058" redirect="true"/>
+    <file name="portfolio.html" crc="4217389847" seo="true" mt="1485345372154" redirect="false"/>
+    <file name="web.html" crc="3888180699" seo="true" mt="1485345636759" redirect="false"/>
+    <file name="photography.html" crc="360943179" seo="true" mt="1485345614567" redirect="false"/>
+    <file name="graphics.html" crc="445947132" seo="true" mt="1485345633993" redirect="false"/>
+    <file name="about.html" crc="263932388" seo="true" mt="1484174556468" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3994033203" seo="true" mt="1485346324226" redirect="true"/>
+  <file name="about.html" crc="3871427009" seo="true" mt="1485346383781" redirect="true"/>
+  <file name="photos.html" crc="242706959" seo="true" mt="1485346238321" redirect="true"/>
+  <file name="web.html" crc="109712346" seo="true" mt="1485346208226" redirect="true"/>
+  <file name="graphics.html" crc="388831946" seo="true" mt="1485346183857" redirect="true"/>
+  <file name="untitled-7.html" crc="190653813" seo="true" mt="1485346130973" redirect="true"/>
+</manifest>
